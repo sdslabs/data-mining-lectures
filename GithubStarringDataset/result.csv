@@ -1,6 +1,6 @@
 'python', 'dolores',1,71, 1
-'python', 'lisa-lab',0,83, 1
-'python', 'lisa-lab',1,61, 1
+'python', 'lisa-lab',0,8, 0
+'python', 'lisa-lab',1,61, 0
 'php', 'PAG',1,75, 0
 'css', 'PAG',0,81, 0
 'cpp', 'SDSLabs',1,74, 1
@@ -17,7 +17,7 @@
 'python', 'PAG',0,30, 0
 'html', 'PAG',0,12, 0
 'python', 'SDSLabs',0,97, 1
-'cpp', 'dolores',0,76, 0
+'cpp', 'dolores',0,76, 1
 'python', 'PAG',1,58, 1
 'css', 'lisa-lab',0,31, 0
 'python', 'dolores',1,12, 0
@@ -46,5 +46,5 @@
 'python', 'dolores',0,41, 0
 'css', 'dolores',1,74, 0
 'cpp', 'PAG',0,47, 0
-'php', 'SDSLabs',0,0, 0
+'php', 'SDSLabs',0,0, 1
 'python', 'PAG',0,60, 0
