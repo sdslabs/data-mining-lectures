@@ -42,8 +42,7 @@ def main():
 
 	dataset = dataset.astype(object)
 	dataset = [dataset[i] + (result[i],) for i in range(len(dataset))]
-	print dataset
-	savetxt('result.csv', dataset, delimiter = ',', fmt="%s" )
+	savetxt('result.csv', dataset, delimiter = ',', fmt="%s", header='language, owner_org, following_owner,no_of_stars,class', comments = '' )
 
 if __name__ == '__main__':
 	main()
